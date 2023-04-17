@@ -151,8 +151,8 @@ const CONFIG = {
         				link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'EDI Student Console',
-        				link: 'https://student.edi-uae.com/Student/Student/StudentMenu.aspx',
+					name: 'Codecademy',
+        				link: 'https://www.codecademy.com/learn',
 				},
 			],
 		},
