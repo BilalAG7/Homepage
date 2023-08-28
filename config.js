@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-      			name: 'Twitter',
-      			icon: 'twitter',
-      			link: 'https://www.twitter.com/home',
+      			name: 'Uni',
+      			icon: 'school',
+      			link: 'https://solss.uow.edu.au/sid/sols_login_ctl.login',
 		},
 		{
 			id: '2',
-      			name: 'AniList',
-      			icon: 'list',
-      			link: 'https://anilist.co/home',
+      			name: 'LinkedIn',
+      			icon: 'linkedin',
+      			link: 'https://www.linkedin.com/feed/',
 		},
 		{
 			id: '3',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
       			name: 'Official Mail',
       			icon: 'inbox',
-      			link: 'https://mail.google.com/mail/u/1/#inbox',
+      			link: 'https://outlook.office365.com/mail/',
 		},
 		{
 			id: '6',
@@ -166,11 +166,11 @@ const CONFIG = {
 				},
 				{
 					name: 'Stats.fm',
-        				link: 'https://preview.stats.fm/bilalag',
+        				link: 'https://stats.fm/bilalag',
 				},
 				{
-					name: 'RARBG',
-        				link: 'https://rarbgmirror.org/index70.php',
+					name: 'MagnetDL',
+        				link: 'https://www.magnetdl.com/',
 				},
 				{
 					name: 'Nyaa',
